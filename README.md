@@ -1,6 +1,11 @@
-# Scratch-Tech-Associates
-Employee Pay Scale: https://docs.google.com/spreadsheets/d/1bIOSR8f4FUEOQ3e6qsrdqJ4HcLXS0VdElXLGBhbu06s/edit?usp=sharing
+# apple.com
+In this project, I tried to clone Apple's official website using HTML, CSS and JavaScript. 
+[Link to website](https://fidalmathew.github.io/apple.com/)
 
-Employee Tasks: https://docs.google.com/spreadsheets/d/1qnuulsVr6sy7nTTPAQv0Re2Q4Tk3d9pVyNrzPe2hBjA/edit?usp=sharing
+The website is fully responsive and I've also added some functionality to the bag icon, just as it is present in the original website.
 
-Employee Directory: https://docs.google.com/spreadsheets/d/1iiWOeNHKqDJJQKk8DOP2VWwHIxInp09NJsp7JfB6voI/edit?usp=sharing
+Thanks for reading, any suggestions for improvement will be highly appreciated. 
+
+[![Screenshot-2021-11-28-at-19-56-53-apple-com.png](https://i.postimg.cc/tC38KPnD/Screenshot-2021-11-28-at-19-56-53-apple-com.png)](https://postimg.cc/HVLS5r27)
+
+[![Screenshot-2021-11-28-at-19-57-55-apple-com.png](https://i.postimg.cc/ZYFbkZ5h/Screenshot-2021-11-28-at-19-57-55-apple-com.png)](https://postimg.cc/grjFRChM)
