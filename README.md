@@ -1,4 +1,5 @@
-<center><img src="./Images/Scratch Technology.png" alt="Scratch Technology Associates' Logo"></center>
+<b> STS OS Commercial Video </b>
+https://github.com/Gby827/Scratch-Tech-Associates/assets/128142165/ad7933e0-9ab2-4909-a1d5-ea9c2c5ac05d
 At Scratch Tech, individual imaginations gather together, committing to the values that lead to great work. Here, you'll do more than join something—you'll add something. We explore a collaborative culture of inclusion, growth, and originality, supported by resources that make a difference in your life. Scratch Tech Associates is where you'll work with others who share your passion and where business serves expertise. Where healthy respect for the courage and original thinking inspires you to bring your best to what we do together, discover how you can make an impact!
 <br>
 <br>
